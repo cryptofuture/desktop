@@ -59,7 +59,7 @@
     "web3": "github:Musicoin/web3.js",
     "y18n": "~4.0.0",
     "zxcvbn": "~4.4.2",
-    "snyk": "^1.85.0"
+    "snyk": "^1.316.1"
   },
   "scripts": {
     "build-all": "yarn build-x64 && yarn build-x86",
