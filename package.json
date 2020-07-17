@@ -54,7 +54,7 @@
     "ntp-client": "~0.5.3",
     "pngjs": "~3.3.3",
     "qrcode": "~1.2.0",
-    "request": "~2.87.0",
+    "request": "~2.88.0",
     "request-promise-native": "~1.0.5",
     "web3": "github:Musicoin/web3.js",
     "y18n": "~4.0.0",
