@@ -55,7 +55,7 @@
     "pngjs": "~3.3.3",
     "qrcode": "~1.2.0",
     "request": "~2.87.0",
-    "request-promise-native": "~1.0.5",
+    "request-promise-native": "~1.0.9",
     "web3": "github:Musicoin/web3.js",
     "y18n": "~4.0.0",
     "zxcvbn": "~4.4.2",
